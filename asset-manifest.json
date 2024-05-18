@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.6958d936.css",
-    "main.js": "/static/js/main.665270d9.js",
-    "static/js/453.41004189.chunk.js": "/static/js/453.41004189.chunk.js",
-    "static/media/gallery-main-image.png": "/static/media/gallery-main-image.7507c56da0eb929dd47a.png",
-    "static/media/404.png": "/static/media/404.90052714a731608cdb15.png",
-    "static/media/logo.svg": "/static/media/logo.9e86714fb7d3c6a279b00d56082c6af6.svg",
-    "static/media/birthday.png": "/static/media/birthday.5a4e8230c6c5bf721052.png",
-    "static/media/gallery-thumbnail.png": "/static/media/gallery-thumbnail.1b552e7c87fc91d11380.png",
-    "static/media/employee1.png": "/static/media/employee1.ea4e2f72897dcff3f320.png",
-    "static/media/gallery1.png": "/static/media/gallery1.44f2922983de3819199d.png",
-    "static/media/employee2.png": "/static/media/employee2.0afbab424b3e0c0c0a12.png",
-    "static/media/employee5.png": "/static/media/employee5.3d76af3c1b7dec7ac3f1.png",
-    "static/media/gallery3.png": "/static/media/gallery3.b725aab9927ca0912124.png",
-    "static/media/gallery4.png": "/static/media/gallery4.f579b942820aab00aefd.png",
-    "static/media/employee3.png": "/static/media/employee3.844db6790cd500f81c08.png",
-    "static/media/employee4.png": "/static/media/employee4.4417a79c055484231472.png",
-    "static/media/gallery2.png": "/static/media/gallery2.3deae4f93d85b545d32a.png",
-    "static/media/birthday-image.png": "/static/media/birthday-image.110bec6b54d32a77599b.png",
-    "index.html": "/index.html",
-    "main.6958d936.css.map": "/static/css/main.6958d936.css.map",
-    "main.665270d9.js.map": "/static/js/main.665270d9.js.map",
-    "453.41004189.chunk.js.map": "/static/js/453.41004189.chunk.js.map"
+    "main.css": "/dynamo-portal/static/css/main.6958d936.css",
+    "main.js": "/dynamo-portal/static/js/main.c9b7fb40.js",
+    "static/js/453.41004189.chunk.js": "/dynamo-portal/static/js/453.41004189.chunk.js",
+    "static/media/gallery-main-image.png": "/dynamo-portal/static/media/gallery-main-image.7507c56da0eb929dd47a.png",
+    "static/media/404.png": "/dynamo-portal/static/media/404.90052714a731608cdb15.png",
+    "static/media/logo.svg": "/dynamo-portal/static/media/logo.9e86714fb7d3c6a279b00d56082c6af6.svg",
+    "static/media/birthday.png": "/dynamo-portal/static/media/birthday.5a4e8230c6c5bf721052.png",
+    "static/media/gallery-thumbnail.png": "/dynamo-portal/static/media/gallery-thumbnail.1b552e7c87fc91d11380.png",
+    "static/media/employee1.png": "/dynamo-portal/static/media/employee1.ea4e2f72897dcff3f320.png",
+    "static/media/gallery1.png": "/dynamo-portal/static/media/gallery1.44f2922983de3819199d.png",
+    "static/media/employee2.png": "/dynamo-portal/static/media/employee2.0afbab424b3e0c0c0a12.png",
+    "static/media/employee5.png": "/dynamo-portal/static/media/employee5.3d76af3c1b7dec7ac3f1.png",
+    "static/media/gallery3.png": "/dynamo-portal/static/media/gallery3.b725aab9927ca0912124.png",
+    "static/media/gallery4.png": "/dynamo-portal/static/media/gallery4.f579b942820aab00aefd.png",
+    "static/media/employee3.png": "/dynamo-portal/static/media/employee3.844db6790cd500f81c08.png",
+    "static/media/employee4.png": "/dynamo-portal/static/media/employee4.4417a79c055484231472.png",
+    "static/media/gallery2.png": "/dynamo-portal/static/media/gallery2.3deae4f93d85b545d32a.png",
+    "static/media/birthday-image.png": "/dynamo-portal/static/media/birthday-image.110bec6b54d32a77599b.png",
+    "index.html": "/dynamo-portal/index.html",
+    "main.6958d936.css.map": "/dynamo-portal/static/css/main.6958d936.css.map",
+    "main.c9b7fb40.js.map": "/dynamo-portal/static/js/main.c9b7fb40.js.map",
+    "453.41004189.chunk.js.map": "/dynamo-portal/static/js/453.41004189.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6958d936.css",
-    "static/js/main.665270d9.js"
+    "static/js/main.c9b7fb40.js"
   ]
 }
